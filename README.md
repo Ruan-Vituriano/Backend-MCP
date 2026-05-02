@@ -113,6 +113,13 @@ Planejado para permitir que a IA:
 
 # ▶️ Como rodar o projeto
 
+## Pré-requisitos
+
+* Python 3.12+ instalado
+* PowerShell no Windows
+* Uma chave válida da Gemini API
+* Preferencialmente usar um caminho de projeto sem acentos no Windows, caso encontre erro de encoding durante a instalação
+
 ## 1. Clone o repositório
 
 ```bash
@@ -124,16 +131,24 @@ cd backend-MCP
 
 ## 2. Crie e ative o ambiente virtual
 
-```bash
+```powershell
 python -m venv .venv
-source .venv/Scripts/activate  # Windows
+.\.venv\Scripts\Activate.ps1
+```
+
+Se o PowerShell bloquear a ativação, execute antes:
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+.\.venv\Scripts\Activate.ps1
 ```
 
 ---
 
 ## 3. Instale as dependências
 
-```bash
+```powershell
+python -m pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
 ```
 
@@ -147,11 +162,13 @@ Crie um arquivo `.env`:
 GEMINI_API_KEY=sua_chave_aqui
 ```
 
+> Sem essa variável o backend pode subir, mas a rota `/chat` não conseguirá gerar respostas.
+
 ---
 
 ## 5. Execute o servidor
 
-```bash
+```powershell
 uvicorn app.main:app --reload
 ```
 
@@ -212,6 +229,7 @@ http://127.0.0.1:8000/docs
 * O projeto está em fase inicial (MVP)
 * A qualidade das respostas depende da base de conhecimento (RAG)
 * A arquitetura foi pensada para escalar com novas features de IA
+* Se aparecer erro de instalação em `psycopg2-binary` no Windows, tente clonar o projeto em um caminho sem acentos e recriar o ambiente virtual
 
 
 ---
