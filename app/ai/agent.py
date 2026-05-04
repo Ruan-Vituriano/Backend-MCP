@@ -28,29 +28,5 @@ def gerar_resposta(pergunta: str):
             "tools": [clima_atual, recomendacao_cultura]
         }
     )
-
-    # 🔥 Detectar chamada de função
-    parts = response.candidates[0].content.parts
-
-    for part in parts:
-        if hasattr(part, "function_call"):
-            nome = part.function_call.name
-            args = part.function_call.args
-
-            resultado = executar_tool(nome, args)
-
-            final = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=f"""
-                Pergunta: {pergunta}
-
-                Resultado da função:
-                {resultado}
-
-                Gere a resposta final.
-                """
-            )
-
-            return final.text
-
+    
     return response.text
