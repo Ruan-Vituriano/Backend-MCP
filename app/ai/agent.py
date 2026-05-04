@@ -13,7 +13,8 @@ def gerar_resposta(pergunta: str):
     Você é um assistente agrícola.
 
     Use ferramentas quando necessário.
-
+    O RAG também pode fornecer contexto adicional para perguntas específicas, então use isso para melhorar suas respostas.
+    
     Contexto:
     {contexto}
 
