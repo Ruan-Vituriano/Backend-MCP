@@ -1,0 +1,110 @@
+================================================================================
+BASE DE CONHECIMENTO - HORTALIÇAS | 2. TOMATE (Solanum lycopersicum)
+================================================================================
+
+CLIMA E TEMPERATURA
+───────────────────────────────────────────────────────────────────────────────
+Temperatura ideal: 20-30°C
+Temperatura mínima: 15°C (crescimento muito lento abaixo disso)
+Temperatura máxima: 35°C (prejudica polinização acima disso)
+Luz solar: Sol pleno essencial (6-8 horas mínimo por dia)
+
+Características: Tomate é sensível ao frio. Não tolera geadas. Cultivo em 
+clima frio requer proteção. Temperatura noturna abaixo de 15°C causa 
+problemas de floração e frutificação.
+
+Qualidade do fruto: Temperatura entre 20-25°C produz frutos com melhor 
+sabor e cor. Acima de 30°C os frutos ficam mais aguados.
+
+ÁGUA E IRRIGAÇÃO
+───────────────────────────────────────────────────────────────────────────────
+Necessidade de água: 40-60mm por semana (dependendo do clima)
+Frequência: 2-3 vezes por semana em clima quente
+Tipo de irrigação: Irrigação por gotejamento é ideal (evita doenças)
+Manutenção do solo: Solo úmido mas não encharcado
+
+CUIDADO CRÍTICO: Não molhe as folhas! Água nas folhas favorece requeima 
+(Phytophthora infestans) e outras doenças fúngicas.
+
+Estádios críticos: Maior demanda de água durante a frutificação 
+(fase de crescimento dos frutos).
+
+SOLO E NUTRIENTES
+───────────────────────────────────────────────────────────────────────────────
+pH ideal: 6.0-6.8
+Fertilizante inicial (plantio): NPK 10-10-10 (150-200 kg/ha)
+Adubação de cobertura: 
+  - Fase vegetativa (primeiras 4-6 semanas): Nitrogênio (N) alto
+  - Fase reprodutiva (frutificação): Potássio (K) alto
+  
+Recomendação prática:
+  - Aos 30 dias: NPK 10-10-10 (50 kg/ha)
+  - Aos 60 dias: NPK 5-10-10 (50 kg/ha)
+  - Aos 90 dias: NPK 3-10-20 (50 kg/ha)
+
+Matéria orgânica: Incorpore 5-10 toneladas de compostagem por hectare
+
+DEFICIÊNCIA DE CÁLCIO:
+  - Sintoma: Podridão apical (necrose preta na base do fruto)
+  - Cause: Excesso de N, deficiência de Ca, ou irrigação irregular
+  - Prevenção: Aplicação foliar de Ca (cloreto ou nitrato de cálcio)
+
+PLANTIO E ESPAÇAMENTO
+───────────────────────────────────────────────────────────────────────────────
+Tipo de propagação: Mudas (não semeie direto no campo)
+Idade das mudas: 30-40 dias do semeio
+Espaçamento entre plantas: 40cm
+Espaçamento entre linhas: 60cm
+Densidade: Aproximadamente 40.000 plantas por hectare
+
+Profundidade de plantio: Enterre a muda até as primeiras folhas 
+verdadeiras para enraizamento mais profundo.
+
+Tutoramento: Tomate indeterminado exige tutores de 1,5-2m. Determinado 
+precisa de suporte menor.
+
+CICLO E COLHEITA
+───────────────────────────────────────────────────────────────────────────────
+Ciclo total: 90-120 dias (do plantio à primeira colheita)
+Início da colheita: Quando frutos atingem 6-8cm de diâmetro
+Tipo de colheita: Colheita de frutos ainda vermelhos ou no estádio de 
+"quebra de cor" (para transporte)
+
+Época de cultivo ideal: Final de inverno/início de primavera
+Cultivo em clima tropical: Possível durante todo o ano, mas evitar épocas 
+muito chuvosas (maior incidência de doenças).
+
+Produtividade: 40-60 toneladas por hectare (em boas condições)
+
+DOENÇAS E PRAGAS
+───────────────────────────────────────────────────────────────────────────────
+REQUEIMA (Phytophthora infestans):
+  - Sintomas: Manchas escuras irregulares nas folhas, podridão aquosa 
+    nos frutos
+  - Condições: Clima úmido, temperaturas 15-20°C
+  - Severidade: Doença MUITO SÉRIA, pode devastar a plantação
+  - Controle: Fungicidas à base de cobre (Bordeaux), mancozebe, chlorothalonil
+  - Prevenção: Não molhar folhas, boa ventilação, remover folhas infectadas
+
+BROCA DO FRUTO:
+  - Sintomas: Pequenos furos nos frutos com serragem
+  - Controle: Armadilhas com ferormônio, captura manual, 
+    inseticida biológico (Trichogramma)
+
+MOSCA-BRANCA e AFÍDEOS:
+  - Controle: Inseticida orgânico, óleo mineral, sabão potássico
+
+PULGÃO-MINEADOR:
+  - Sintomas: Galerias/linhas nas folhas
+  - Controle: Remoção de folhas infectadas, inseticida
+
+FUSARIOSE E MURCHA DE VERTICÍLIO:
+  - Prevenção: Usar variedades resistentes (buscar siglas VF, VFN)
+  - Controle: Não existe tratamento, erradicação necessária
+
+VARIEDADES RECOMENDADAS
+───────────────────────────────────────────────────────────────────────────────
+Cereja: Sweet 100, Cereja Vermelha, Pittenza
+Caqui: Débora, Gaúcha, Firme
+Italiano/Salada: Carioca, Monte Carlo, Angela
+Resistente a doenças: Solimar, Dominador, Tybalt

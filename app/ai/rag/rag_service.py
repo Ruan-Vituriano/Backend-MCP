@@ -1,14 +1,8 @@
-docs = [
-    "Alface cresce melhor em clima ameno e solo úmido.",
-    "Tomate precisa de sol pleno e irrigação controlada.",
-    "Coentro prefere clima mais fresco e solo bem drenado."
-]
-
-def buscar_contexto(pergunta: str):
+def buscar_contexto(pergunta, base):
     resultados = []
 
-    for doc in docs:
-        if any(palavra in doc.lower() for palavra in pergunta.lower().split()):
-            resultados.append(doc)
+    for item in base:
+        if pergunta.lower() in item["texto"].lower():
+            resultados.append(item["texto"])
 
-    return "\n".join(resultados) if resultados else "Sem contexto relevante."
+    return "\n".join(resultados[:3])
